@@ -1,0 +1,1 @@
+# jamship-ghost-starter
